@@ -15,5 +15,3 @@ add a script in your package.json
 can also specify the port:
 
 `"serve:build": "./node_modules/.bin/static-server dist/my-app 4202"`
-
-
