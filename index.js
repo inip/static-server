@@ -53,4 +53,7 @@ http.createServer(function(req, res) {
     });
 }).listen(parseInt(port));
 
-console.log(`Server listening on port ${port}`);
+console.log(`Server listening at:
+
+http://localhost:${port}
+`);
