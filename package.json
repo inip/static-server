@@ -1,6 +1,6 @@
 {
     "name": "@inip/static-server",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple Static Server useful for developing",
     "bin": {
         "static-server": "./index.js"
